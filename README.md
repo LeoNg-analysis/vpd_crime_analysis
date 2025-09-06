@@ -6,7 +6,7 @@ This project analyzes publicly available crime data from the Vancouver Police De
 
 Data Source
 
-Vancouver Police Department Open Data Portal (Crime data, 2019–2024).
+Vancouver Police Department Open Data Portal (Crime data, 2020-2025).
 
 Dataset is anonymized and spatially adjusted to protect privacy.
 
